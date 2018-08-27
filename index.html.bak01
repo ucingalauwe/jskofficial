@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link type="text/css" rel="stylesheet" href="style/style.css">
+<link type="text/css" rel="stylesheet" href="style/nav.css">
+<link type="text/css" rel="stylesheet" href="style/sliderstyle.css">
+<script type="text/javascript" src="style/nav.js"></script>
+<script type="text/javascript" src="style/slider.js"></script>
+<script type="text/javascript" src="style/script.js"></script>
+<script type="text/javascript" src="style/jquery.js"></script>
+
+<title>Jaya Samudra Karunia</title>
+</head>
+
+<body>
+	<div id="wrapper">
+    	<div id="header">
+        	<div id="headerleft">
+            	<img src="images/Logo.png" width="200px" height:"100px">
+            </div><!---end headerleft--->
+            <div id="headerright">
+            	<div id="mbynrnebul_wrapper" style="max-width: 578px;">
+  					<ul id="mbynrnebul_table" class="mbynrnebul_menulist css_menu">
+  						<li><div class="buttonbg gradient_button gradient30"><a class="button_1">Home</a></div></li>
+  						<li><div class="buttonbg gradient_button gradient30"><div class="arrow"><a>Fleet</a></div></div>
+   							 <ul class="gradient_menu gradient106">
+    							<li class="first_item"><a class="with_arrow" title="">Bulk Carrier</a>
+      							<ul class="gradient_menu gradient176">
+      								<li class="first_item"><a title="">MV Bara Anugrah</a></li>
+      								<li><a title="">MV Karunia</a></li>
+      								<li><a title="">MV Kartini Samudra</a></li>
+      								<li><a title="">MV Permata Caroline</a></li>
+      								<li class="last_item"><a title="">MV Victory Union</a></li>
+      							</ul></li>
+    							<li><a class="with_arrow" title="">Floating Crane</a>
+      							<ul class="gradient_menu gradient71">
+      								<li class="first_item"><a title="">FLF Hana</a></li>
+      								<li class="last_item"><a title="">Sea Lift 1</a></li>
+      							</ul></li>
+    							<li class="last_item"><a class="with_arrow" title="">Self Propelled Barge</a>
+      							<ul class="gradient_menu gradient71">
+      								<li class="first_item"><a title="">MV Jaya Amara</a></li>
+      								<li class="last_item"><a title="">MV Jaya Buana</a></li>
+      						</ul></li>
+    					</ul></li>
+  					<li><div class="buttonbg gradient_button gradient30"><div class="arrow"><a>Service</a></div></div>
+    					<ul class="gradient_menu gradient106">
+    						<li class="first_item"><a title="">Break Bulk Transportation</a></li>
+    						<li><a title="">Liquid Bulk Transportation</a></li>
+    						<li class="last_item"><a title="">Open Sea Transportation</a></li>
+    					</ul></li>
+  					<li><div class="buttonbg gradient_button gradient30"><div class="arrow"><a>About</a></div></div>
+    					<ul class="gradient_menu gradient106">
+    					<li class="first_item"><a title="">Mission, Plan &amp; Strategy</a></li>
+    					<li><a title="">Message From CEO</a></li>
+    					<li class="last_item"><a title="">Milestone</a></li>
+    					</ul></li>
+  					<li><div class="buttonbg gradient_button gradient30"><a class="button_5">Contact&nbsp;</a></div></li>
+  					</ul>
+				</div>
+            </div><!---end headerright--->
+        </div><!---end header--->
+        <!--<div id="nav"></div><!---end nav--->-->
+        <div id="slider">
+        
+        </div><!---end slider--->
+        <div id="content"></div><!---end content--->
+        <div id="footer"></div><!---end footer--->
+    </div><!---end wrapper--->
+</body>
+</html>
